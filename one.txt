@@ -1,3 +1,5 @@
 one
 Hello
 another feature
+
+Adding dark mode functionality
